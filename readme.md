@@ -25,6 +25,19 @@ Hossein Shams | [Blog](https://medium.com/@hos.shams/im-going-to-launch-12-start
 
 CJ Trowbridge | [Blog](https://blog.cjtrowbridge.com/category/blog/projects/the-levels-challenge-build-12-startups-in-12-months/) | [Twitter](https://twitter.com/cjtrowbridge)
 
+1. [Securities Science](https://securities.science)
+2. [RSI Alert](https://rsialert.com)
+3. [Draupnr](https://draupnr.io)
+4. [CronPUT](https://cronput.com)
+5. [Condensr](https://condensr.io)
+6. [Exotic Weapons](https://exoticweapons.io)
+7. [Top Story Review](https://topstoryreview.com)
+8. [Stardate.Today]()
+9. [What are you wearing today?](https://wearing.today)
+10. [Astria](https://github.com/cjtrowbridge/astria)
+11. [PHP TTS Webhooks](https://github.com/cjtrowbridge/PHP-TTS-Webhooks)
+12. [Smart Mailer](https://smartmailer.io)
+
 Chris Wiso | [Blog](https://chriswiso.com/12-startups-in-12-months/) | [Twitter](https://twitter.com/wisochris)
 
 Jon Yongfook | [Blog](https://www.yongfook.com/12-startups-in-12-months/) | [Twitter](https://twitter.com/yongfook)
