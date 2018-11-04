@@ -23,6 +23,9 @@ Lukáš Pápay | [Blog](https://medium.com/@lukas_papay/12-startups-in-12-months
 
 Hossein Shams | [Blog](https://medium.com/@hos.shams/im-going-to-launch-12-startups-in-12-months-bc6346274f26) |  [Twitter](https://twitter.com/hosshams)
 
+1. [Landub](https://landub.com)
+2. [BareProduct](http://bareproduct.com)
+
 CJ Trowbridge | [Blog](https://blog.cjtrowbridge.com/category/blog/projects/the-levels-challenge-build-12-startups-in-12-months/) | [Twitter](https://twitter.com/cjtrowbridge)
 
 1. [Securities Science](https://securities.science)
@@ -43,3 +46,4 @@ Chris Wiso | [Blog](https://chriswiso.com/12-startups-in-12-months/) | [Twitter]
 Jon Yongfook | [Blog](https://www.yongfook.com/12-startups-in-12-months/) | [Twitter](https://twitter.com/yongfook)
 
 1. [Zipsell](https://www.zipsell.org)
+2. [Promomatic](https://www.promomatic.com)
