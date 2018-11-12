@@ -4,6 +4,8 @@ List of **12 startups in 12 months** challenges
 
 Mehdi Amrane | [Blog](https://heymehdi.com/12-startups-12-months/) | [Twitter](https://www.twitter.com/heymehdi)
 
+1. [Maker Notes](https://makernotes.io)
+
 Shan Han | [Blog](https://shanhan.xyz/12-startups-in-12-months/) | [Twitter](https://twitter.com/hanshanhk)
 
 Pieter Levels | [Blog](https://levels.io/12-startups-12-months/) | [Twitter](https://twitter.com/levelsio)
