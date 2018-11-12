@@ -8,6 +8,10 @@ Mehdi Amrane | [Blog](https://heymehdi.com/12-startups-12-months/) | [Twitter](h
 
 Shan Han | [Blog](https://shanhan.xyz/12-startups-in-12-months/) | [Twitter](https://twitter.com/hanshanhk)
 
+1. [EverSentinel](https://eversentinel.com)
+2. [Lift.hk](https://lift.hk)
+3. [Cryptos for the Rest of Us](https://www.getrevue.co/profile/hanshanhk)
+
 Pieter Levels | [Blog](https://levels.io/12-startups-12-months/) | [Twitter](https://twitter.com/levelsio)
 
 1. [Play My Inbox](https://playmyinbox.com)
