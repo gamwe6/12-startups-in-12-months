@@ -45,6 +45,8 @@ CJ Trowbridge | [Blog](https://blog.cjtrowbridge.com/category/blog/projects/the-
 
 Chris Wiso | [Blog](https://chriswiso.com/12-startups-in-12-months/) | [Twitter](https://twitter.com/wisochris)
 
+1. [Growthstore](https://www.growthstore.io)
+
 Jon Yongfook | [Blog](https://www.yongfook.com/12-startups-in-12-months/) | [Twitter](https://twitter.com/yongfook)
 
 1. [Zipsell](https://www.zipsell.org)
