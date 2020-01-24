@@ -68,3 +68,8 @@ Josh Schertz | [Blog](https://joshschertz.com/2018/12/06/12-Startups-in-12-Month
 4. [The Space Resource Research Portal](https://research.thespaceresource.com)
 5. [CubeSat Guide](https://cubesatguide.com)
 6. [Consens](https://consens.app)
+
+Tom Kadwill | [Blog](https://tomkadwill.com/12-startups-12-months) | [Twitter](https://twitter.com/tomkadwill)
+
+1. [CommitCheck](https://commitcheck.com)
+2. [PR Scheduler](https://prscheduler.com)
