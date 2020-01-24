@@ -59,3 +59,12 @@ Jon Yongfook | [Blog](https://www.yongfook.com/12-startups-in-12-months/) | [Twi
 4. [Tech Jobs Asia](https://www.techjobsasia.com)
 5. [Hyperjump](https://www.hyperjump.co)
 6. [Tropic](https://www.letstropic.com)
+
+Josh Schertz | [Blog](https://joshschertz.com/2018/12/06/12-Startups-in-12-Months/) | [Twitter](https://twitter.com/joshuaschertz)
+
+1. [The Contact Guru](https://thecontact.guru)
+2. [The Space Resource](https://thespaceresource.com)
+3. [The Vibe](https://thevibe.city)
+4. [The Space Resource Research Portal](https://research.thespaceresource.com)
+5. [CubeSat Guide](https://cubesatguide.com)
+6. [Consens](https://consens.app)
