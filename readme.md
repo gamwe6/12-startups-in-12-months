@@ -73,3 +73,7 @@ Tom Kadwill | [Blog](https://tomkadwill.com/12-startups-12-months) | [Twitter](h
 
 1. [CommitCheck](https://commitcheck.com)
 2. [PR Scheduler](https://prscheduler.com)
+
+Anna Grigoryan | [Twitter](https://twitter.com/angrigoryan__)
+
+1. [Community Finder](https://community.engineeringrowth.co)
