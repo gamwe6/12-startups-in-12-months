@@ -77,3 +77,14 @@ Tom Kadwill | [Blog](https://tomkadwill.com/12-startups-12-months) | [Twitter](h
 Anna Grigoryan | [Twitter](https://twitter.com/angrigoryan__)
 
 1. [Community Finder](https://community.engineeringrowth.co)
+
+Jason Leow | [Blog](https://jasonleow.sg/310/1mvp1month/) | [Twitter](https://twitter.com/jasonleowsg)
+
+1. [Outsprint](https://store.outsprint.io)
+2. [Public Design Vault](https://publicdesignvault.com)
+3. [Public Design Forum](https://forum.publicdesignvault.com)
+4. [Public Design Jobs](https://publicdesignjobs.com)
+5. [UX Storyboard](https://uxstoryboard.com)
+6. [Coffice City](https://coffice-city.com)
+7. [Space Nomads](https://space-nomads.com)
+8. [Grant Hunt](https://gogranthunt.com)
