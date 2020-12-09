@@ -88,3 +88,7 @@ Jason Leow | [Blog](https://jasonleow.sg/310/1mvp1month/) | [Twitter](https://tw
 6. [Coffice City](https://coffice-city.com)
 7. [Space Nomads](https://space-nomads.com)
 8. [Grant Hunt](https://gogranthunt.com)
+
+Lars Karbo | [Blog](https://larskarbo.no/12-startups-12-months/) | [Twitter](https://twitter.com/larskarbo)
+
+1. [Slapper](https://slapper.io)
