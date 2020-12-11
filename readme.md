@@ -92,3 +92,7 @@ Jason Leow | [Blog](https://jasonleow.sg/310/1mvp1month/) | [Twitter](https://tw
 Lars Karbo | [Blog](https://larskarbo.no/12-startups-12-months/) | [Twitter](https://twitter.com/larskarbo)
 
 1. [Slapper](https://slapper.io)
+
+Dmitrii Pashutskii | [Blog](https://dpashutskii.com/a-year-of-making/) | [Twitter](https://twitter.com/guar47)
+
+1. [Learning Story](https://getlearningstory.com)
